@@ -1,5 +1,5 @@
 # MedCare - Doctor Appointment & Healthcare App
-A modern healthcare mobile app for booking and managing doctor appointments created in figma.
+A modern healthcare mobile app UI/UX designed in figma.
 
 ## Overview
 
