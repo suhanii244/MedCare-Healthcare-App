@@ -32,7 +32,7 @@ Home → Doctor Listing → Doctor Profile → Select Date & Time → Confirm Ap
 
 ## Prototype
 
-View Interactive Prototype:
+View Interactive Prototype here:
 https://www.figma.com/proto/lJFd8nEFuzUrxdPNo9mu1o/MedCare---Doctor-Appointment---Healthcare-App?node-id=0-1&t=1jTAnlhNuKwUCz52-1
 
 ## Screens
