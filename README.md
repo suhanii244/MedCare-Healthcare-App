@@ -1,5 +1,5 @@
-# Doctor Appointment & Healthcare App
-A modern healthcare mobile app designed to help users discover doctors, book appointments, manage consultations, and access healthcare services seamlessly.
+# MedCare - Doctor Appointment & Healthcare App
+A modern healthcare mobile app for booking and managing doctor appointments.
 
 ## Overview
 
